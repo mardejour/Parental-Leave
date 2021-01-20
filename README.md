@@ -24,7 +24,6 @@ To run, `git clone` the repo, `cd` into the project, and run `http-server -c-1 -
 Making a bubble chart
 - https://observablehq.com/@d3/bubble-chart
 - https://github.com/d3/d3-force
-- https://medium.com/@sxywu/understanding-the-force-ef1237017d5
 
 Annotating the bubble chart
 - http://d3-annotation.susielu.com/
